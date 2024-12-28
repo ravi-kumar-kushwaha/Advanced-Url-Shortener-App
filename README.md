@@ -1,10 +1,10 @@
 <h1>Advanced URL Shortener App</h1>
 
-Overview:-
+<h3>Overview:-</h3>
 
 A URL shortening app that allows users to shorten URLs, track analytics (clicks, devices, OS), and organize links by topic.
 
-Features:-
+<h3>Features:-</h3>
 
 URL Shortening: Shorten URLs with optional aliases.
 
@@ -14,7 +14,7 @@ Topic Organization: Group and analyze URLs by topics.
 
 Rate Limiting: Prevent abuse.
 
-Endpoints
+<h3>Endpoints</h3>
 
 Create Short URL: POST /api/v1/shorten
 
@@ -32,7 +32,7 @@ User Login: POST /api/v1/users/signin
 
 Login With Google: POST /api/v1/auth/google
 
-Installation
+<h3>Installation</h3>
 
 Clone repo: git clone <repository-url>
 
